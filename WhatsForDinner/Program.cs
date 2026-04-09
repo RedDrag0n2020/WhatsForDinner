@@ -11,14 +11,20 @@ namespace WhatsForDinner
             "lasagna", "spaghetti", "ham steak", 
             "ham, potatoes, and onions", "chicken & yellow rice",
             "fried chicken", "chinese food", "Philly cheese steaks", 
-            "hot dogs",
+            "hot dogs", "ham & beans","pork loin","pot roast", "ribs","coneys",
+            "chicken nuggets", "grilled ham & cheese sandwiches", "chicken sandwiches",
+            "sloppy joes", "shrimp alfredo", "swedish meatballs"
             };
 
         static string[] sides = {"mashed potatoes", "brown rice", "mashed cheese potatos",
-        "quarted cheese potatos"};
+        "quarted cheese potatos", "dinner roll", "french fries", "baked potato",
+        "baked beans",      
+        };
 
         static string[] vegetables = {"corn", "lima beans", "peas",
-        "broccoli with cheese", "cauliflower with cheese", "green beans" };
+        "broccoli with cheese", "cauliflower with cheese", "green beans", "salad", "corn on the cob",
+        "corn", "mexican corn", 
+        };
         
         static void Main(string[] args)
         {
